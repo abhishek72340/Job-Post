@@ -18,8 +18,8 @@ export const jobsData = [
 ];
 
 export const labelOptions = [
-  { value: "Is-remote", label: "Is Remote" },
-  { value: "5-day-week", label: "5 Day Week" },
+  { value: "Is remote", label: "Is Remote" },
+  { value: "5 day week", label: "5 Day Week" },
 ];
 
 export const jobTypesOptions = [
