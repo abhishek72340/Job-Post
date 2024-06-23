@@ -13,7 +13,6 @@ export const jobsData = [
     jobLocation: { value: "", checked: false },
     jobTypes: { value: "", checked: false },
     labels: { value: [], checked: false },
-    // checked: false,
   },
 ];
 
